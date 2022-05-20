@@ -6,13 +6,13 @@
 
     <groupId>org.jitsi</groupId>
     <artifactId>rtp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>fishjam-debug</version>
 
     <properties>
         <kotlin.version>1.5.20</kotlin.version>
         <kotest.version>4.6.1</kotest.version>
         <junit.version>5.2.0</junit.version>
-        <jitsi.utils.version>1.0-94-ge7c7a43</jitsi.utils.version>
+        <jitsi.utils.version>fishjam-debug</jitsi.utils.version>
         <spotbugs.version>4.0.0-RC1</spotbugs.version>
     </properties>
 
